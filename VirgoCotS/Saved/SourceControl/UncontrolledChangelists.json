@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/Rectangle_5.uasset",
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/tiger_icon.uasset",
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/In_Game_Hud.uasset",
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/RadProgHealthBar.uasset",
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/WBP_RadProgHealthBar.uasset",
+				"C:/Users/7city/OneDrive/Desktop/Virgo Capstone/Virgo Project/Virgo_Children_of_the_Stars/VirgoCotS/Content/UI_Assets/RadProgHealthBar_Inst.uasset",
+				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/VIRGOLogo2Stars.uasset",
+				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/VIRGOLogo_Thumbnail.uasset",
+>>>>>>> Stashed changes
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Input/Actions/IA_Pounce.uasset",
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Input/Actions/IA_Spin.uasset",
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Input/IMC_Default.uasset",
