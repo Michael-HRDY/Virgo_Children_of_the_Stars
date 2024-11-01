@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VirgoCotS/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+VirgoCotS/Saved/Config/CrashReportClient/UECC-Windows-DDF295ED4729159482B0D2ABCFB5E977/CrashReportClient.ini
+VirgoCotS/Saved/Logs/VirgoCotS-backup-2024.10.31-23.45.15.log
+VirgoCotS/Saved/Logs/VirgoCotS.log
